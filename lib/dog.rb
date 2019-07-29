@@ -12,4 +12,4 @@ class Dog
   end
   
   def self.print_all
-    each 
+    @all.each do 
