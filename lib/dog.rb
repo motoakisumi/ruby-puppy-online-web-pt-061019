@@ -3,6 +3,8 @@
 class Dog
   @@all = []
   
+  attr_accessor()
+  
   def initialize(name)
     
     @@all << self
